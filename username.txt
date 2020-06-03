@@ -1,1 +1,2 @@
-name1=user1,user2,user3,user4
+name=user1,user2,user3,user4
+pwd = 1,2,3
